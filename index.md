@@ -1,6 +1,6 @@
 ## Welcome to Yuzhi Xu Pages
 
-You can use the [my personal website](https://yuzhixu.com) 
+You can use the [my personal website](http://yuzhixu.com) 
 
 
 ### Code Sample
